@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git", 
-    "url": "git+https://github.com/sebastianmacias/react-fundamentals-curriculum.git"
+    "url": "git+https://github.com/sebastianmacias/react-project.git"
   },
   "author": "Tyler McGinnis <tylermcginnis33@gmail.com> (http://tylermcginnis.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sebastianmacias/react-fundamentals-curriculum/issues"
+    "url": "https://github.com/sebastianmacias/react-project/issues"
   },
   "homepage": "http://courses.reactjsprogram.com/courses/reactjsfundamentals",
   "dependencies": {
